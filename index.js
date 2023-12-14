@@ -110,7 +110,7 @@ function t() {
 }
 
 document.onkeydown = function (e) {
-    if (e.keyCode == 27) {
+    if (e.key == 'Escape') {
         // fastforward text 
         Typer.index = Typer.text.length;
     }
