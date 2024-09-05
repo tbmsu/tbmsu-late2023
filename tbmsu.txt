@@ -3,7 +3,7 @@
 <ul><li>Software Engineer</li><li>Application Architect</li><li>Team Leader</li><li>Husband &amp; Father</li></ul>
 Working for a sustainable tomorrow at <a href="https://www.volue.com/">Volue</a>.<br/>
 <span id="a">me@tbmsu.com</span>:<span id="b">~</span><span id="c">$</span> quote --favorite
-<p>Pamela Zave &gt; &quot;<span id="a">The purpose of software engineering is to control complexity, not to create it</span>&quot;.</p>
+<p>&quot;<span id="a">The purpose of software engineering is to control complexity, not to create it</span>&quot; (Pamela Zave).</p>
 <span id="a">me@tbmsu.com</span>:<span id="b">~</span><span id="c">$</span> profiles -i -l
-<p>Internet Profiles: <br/> <a href="https://www.linkedin.com/in/tobias-loesch">LinkedIn</a> <br/> <a href="https://github.com/tbmsu">GitHub</a> <br/> <a href="https://mastodon.social/@tbmsu">Mastodon</a> and <br/> <a href="https://www.instagram.com/tbmsu_com/">Instagram</a>.</p>
+<p>Internet Profiles: <br/> <a href="https://www.linkedin.com/in/tobias-loesch">LinkedIn</a> <br/> <a href="https://github.com/tbmsu">GitHub</a> <br/> <a href="https://mastodon.social/@tbmsu">Mastodon</a> and <br/> <a href="https://www.instagram.com/tbmsu_com/">Instagram</a> <br/> <a href="https://www.komoot.com/de-de/user/5768445366142">Komoot</a>.</p>
 Feel free to send me an email at <!-- long long long comment --><span id="a">hallo @ tbmsu.com</span>
